@@ -1,7 +1,7 @@
 {
   "name": "play-react",
   "version": "0.1.0",
-  "homepage": "https://maniskasyap.github.io/play-react",
+  "homepage": "https://maniskasyap.github.io/react-play",
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
